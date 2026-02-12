@@ -1,0 +1,42 @@
+{
+    "schemaVersion": "1.0",
+    "compilerVersion": "0.1.0",
+    "sourceChecksum": "sha256:abc123",
+    "generatedAt": "2026-02-12T00:00:00Z",
+    "layerCount": 1,
+    "layers": [
+        {
+            "id": "layer_text_highlife",
+            "label": "Highlife text",
+            "type": "text",
+            "bbox": {
+                "x": 10,
+                "y": 20,
+                "width": 120,
+                "height": 40,
+                "cx": 70,
+                "cy": 40
+            },
+            "defaultOrigin": {
+                "x": 70,
+                "y": 40
+            },
+            "zIndex": 2,
+            "tags": ["title"],
+            "aliases": ["headline"],
+            "capabilities": {
+                "move": true,
+                "scale": true,
+                "rotate": true,
+                "opacity": true,
+                "depth": true,
+                "effect": false,
+                "jitter": false,
+                "maxRotation": 30,
+                "minDepth": -200,
+                "maxDepth": 200
+            },
+            "fingerprint": "fp_123"
+        }
+    ]
+}

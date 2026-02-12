@@ -1,0 +1,21 @@
+{
+    "schemaVersion": "1.0",
+    "timestamp": "2026-02-12T00:00:00Z",
+    "layers": {
+        "layer_text_highlife": {
+            "x": 0,
+            "y": 0,
+            "scale": 1,
+            "rotation": 0,
+            "opacity": 1,
+            "visible": true,
+            "origin": {
+                "x": 70,
+                "y": 40
+            },
+            "status": "idle",
+            "lastUpdate": "2026-02-12T00:00:00Z",
+            "z": 0
+        }
+    }
+}

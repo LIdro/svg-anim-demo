@@ -1,0 +1,12 @@
+{
+    "layerId": "layer_text_highlife",
+    "from": {
+        "x": -120
+    },
+    "to": {
+        "x": 0
+    },
+    "duration": 0.4,
+    "ease": "elastic.out(1,0.4)",
+    "delay": 0
+}

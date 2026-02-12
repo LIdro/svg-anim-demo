@@ -1,0 +1,8 @@
+{
+    "schemaVersion": "1.0",
+    "compilerVersion": "0.1.0",
+    "sourceChecksum": "sha256:abc123",
+    "layerMapMinChecksum": "sha256:min",
+    "layerMapFullChecksum": "sha256:full",
+    "generatedAt": "2026-02-12T00:00:00Z"
+}
